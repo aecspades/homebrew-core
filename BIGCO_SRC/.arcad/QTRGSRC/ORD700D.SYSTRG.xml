@@ -4,5 +4,5 @@
 	<type>SYSTRG</type>
 	<object_type>*SYSTRG</object_type>
 	<source_loc>*L03</source_loc>
-	<object_loc>*L02</object_loc>
+	<object_loc>*L01</object_loc>
 </mbr_properties>
